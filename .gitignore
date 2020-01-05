@@ -1,0 +1,7 @@
+*.save
+*~
+*.swp
+__pycache__/*
+misc/*
+images/*
+beautify.py
